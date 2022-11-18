@@ -27,5 +27,10 @@ namespace Generateur_code_barre
 
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("NII");
+        }
     }
 }
